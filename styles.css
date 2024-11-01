@@ -1,0 +1,58 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f5f2;
+    color: #4b3832;
+}
+.navbar {
+    background-color: #8c4a2d;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+.nav-link:hover {
+    color: #f0c27b !important;
+}
+h2 {
+    color: #8c4a2d;
+}
+.btn-primary {
+    background-color: #8c4a2d;
+    border-color: #8c4a2d;
+}
+.btn-primary:hover {
+    background-color: #f0c27b;
+    border-color: #f0c27b;
+}
+footer {
+    background-color: #8c4a2d;
+    color: #ffffff;
+}
+footer a {
+    color: #f0c27b;
+}
+footer a:hover {
+    color: #ffffff;
+}
+footer i {
+    margin-right: 5px;
+}
+.footer-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #f0c27b;
+}
+.footer-icons a:hover {
+    color: #ffffff;
+}
+.footer-icons i {
+    font-size: 1.2rem;
+}
+.card {
+    max-width: 300px;
+    margin: auto;
+}
+.card-img-top {
+    width: 75%;
+    height: auto;
+    margin: auto;
+}
